@@ -214,9 +214,3 @@ The clinic may need to conduct better training for their employees, particularly
 ---
 
 
-## Certifications
-![Image of the CompTIA Network+ certification badge](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/images/NetworkPlus%20Logo%20Certified%20CE.png)
-
-Code: KRNM28XTKMV4QZKB
-
-Verify at: http://verify.CompTIA.org
